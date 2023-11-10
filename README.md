@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @EllenFarias
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<a href="https://github.com/EllenFarias">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenFarias&theme=tokyonight&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/EllenRF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EllenFarias&theme=tokyonight&show_icons=true" />
+</a>
